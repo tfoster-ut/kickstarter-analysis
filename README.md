@@ -10,10 +10,8 @@ The purpose of this analysis is to identify a general guidance on the goal amoun
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-The number of successful plays declines as the goal amount increases.  The line chart may show an increase around 30,000 but its important
-to note that the total projects are significantly lower in these ranges.  
 
 ### Challenges and Difficulties Encountered
 I did not encounter any significant difficulties.  It took me a minute to remeber how to complete the COUNTIFS formula and I needed to reference the hint to spark my memory.  
