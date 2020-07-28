@@ -17,13 +17,13 @@ In conducting my analysis it is evident that as the funding request increase the
 
 ### Challenges and Difficulties Encountered
 I did not encounter any significant difficulties.  It took me a minute to remeber how to complete the COUNTIFS formula and I needed to reference the hint to spark my memory.  
-One challenge I had was combating my prior experience and formating preferences with Excel to comply with the course expectations.
+One challenge I had was combating my prior experience and formating preferences with Excel to comply with the course expectations.  I was unable to name the Theater Outcomes sheet exactly as requested by the challenge because it excel wouldn't allow it.  
 
 ## Results
 
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
-- June yeilds a 32% chance of a successful theater event and May yeilds a 31%. 
-- It is not advisable to have a theater event from November through January 
+- June yeilds a 65% chance of a successful theater event and May yeilds a 67%. From a percantage standpoint, it would be advised to launch a kickstarter in the month of May.  However, both May and June have a >= 100 successful kickstarters.  Launching a kickstarter after May will result in lower and lower liklihood of success through the end of the year.
+- It is not advisable to have a theater event in December or January. 
 
 **- What can you conclude about the Outcomes based on Goals?**
 - The higher the goal for the campaign, the less likely you are to have success.
