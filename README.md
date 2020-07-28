@@ -12,7 +12,7 @@ The purpose of this analysis is to identify a general guidance on the goal amoun
 ### Analysis of Outcomes Based on Launch Date
 ![](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![](resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 I did not encounter any significant difficulties.  It took me a minute to remeber how to complete the COUNTIFS formula and I needed to reference the hint to spark my memory.  
 One challenge I had was combating my prior experience and formating preferences with Excel to comply with the course expectations.
