@@ -26,12 +26,12 @@ One challenge I had was combating my prior experience and formating preferences 
 - It is not advisable to have a theater event in December or January. 
 
 **- What can you conclude about the Outcomes based on Goals?**
-- The higher the goal for the campaign, the less likely you are to have success.
+- The higher the goal for the campaign, the less likely you are to have success.  The most optimal range of funding is between 1,000 and 4,999 as this is has resulted in the highest number of successful projects. As funding goes over 4,999 the rate of success drops sharply to 55%.
 
 **- What are some limitations of this dataset?**
 
 There are no indications or sub-outcomes that could assist in pointing to a reason or cancelation or failure. In other words, if either of the aforementioned categories had a
-sub-category this could help us identify a cause for failure or cancelation.
+sub-category this could help us identify a cause for failure or cancelation.  We are missing information around how these kickstarters were promoted.  Knowing if the successful kickstarters used social media to push their fundraising.   
 
 **- What are some other possible tables and/or graphs that we could create?**
 
