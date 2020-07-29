@@ -17,7 +17,7 @@ In conducting my analysis it is evident that as the funding request increase the
 
 ### Challenges and Difficulties Encountered
 I did not encounter any significant difficulties.  It took me a minute to remeber how to complete the COUNTIFS formula and I needed to reference the hint to spark my memory.  
-One challenge I had was combating my prior experience and formating preferences with Excel to comply with the course expectations.  I was unable to name the Theater Outcomes sheet exactly as requested by the challenge because it excel wouldn't allow it.  
+One challenge I had was combating my prior experience and formating preferences with Excel to comply with the course expectations.  I was unable to name the Theater Outcomes sheet exactly as requested by the challenge because it excel wouldn't allow it.  I did deal with a constant freeze scenario in which my frozen pane would affect my ability to scroll within a specific sheet.  I was able to resolve the issue by simply removing the frozen pane.
 
 ## Results
 
