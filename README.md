@@ -3,12 +3,12 @@
 ## Overview of Project
 
 ### Purpose 
-The purpose of this analysis is to identify a general guidance on the goal amount needed and time of year to hold a kickstarter campaign for theater events and more specifically plays.  We are seeking to understand what an appropriate goal is and if there is such thing as asking for too much or too little funding.  We seek to understand the most optimal time of year to obtain these funds and if timing is a factor on when to hold a campaign.
+The purpose of this analysis is to identify a general guidance on the goal amount that should be requested and the time of year to hold a kickstarter campaign for theater events and more specifically plays.  We are seeking to understand what an appropriate goal is and if there is such thing as asking for too much or too little funding.  We seek to understand the most optimal time of year to obtain these funds and if timing is a factor on when to hold a campaign.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-When conducting my analysis on Outcomes Based on Launch Date I looked at the two standout months of May and June.  Initially it appears that May is the most optimal time based on total successful projects but I went ahead and conducted a seperate calculation (not shown) that resulted in a lower liklihood of success than June, however it is marginal.
+When conducting my analysis on Outcomes Based on Launch Date I looked at the two standout months of May and June.  Initially it appears that May is the most optimal time based on total successful projects but I went ahead and conducted a seperate calculation (not shown) that resulted in confirming this assumpton, however it is marginal.
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -30,9 +30,9 @@ One challenge I had was combating my prior experience and formating preferences 
 
 **- What are some limitations of this dataset?**
 
-There are no indications or sub-outcomes that could assist in pointing to a reason or cancelation or failure. In other words, if either of the aforementioned categories had a
+There are no indications or sub-outcomes that could assist in pointing to a reason for cancelation or failure. In other words, if either of the aforementioned categories had a
 sub-category this could help us identify a cause for failure or cancelation.  We are missing information around how these kickstarters were promoted.  Knowing if the successful kickstarters used social media to push their fundraising.   
 
 **- What are some other possible tables and/or graphs that we could create?**
 
-We could look at the length of campaigns to attempt to understand what the appropriate length of a campaign should be. We could look at spotlight and staff pick to attempt to identify if there is any influence from these categories on the liklihood of success or failure of a particular kickstarter
+We could look at the length of campaigns to attempt to understand what the appropriate length of a campaign should be. We could look at staff pick to attempt to identify if there is any influence from these categories on the liklihood of success or failure of a particular kickstarter.
