@@ -8,11 +8,14 @@ The purpose of this analysis is to identify a general guidance on the goal amoun
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-When conducting my analysis on Outcomes Based on Launch Date I looked at the two standout months of May and June.  Initially it appears that May is the most optimal time based on total successful projects but I went ahead and conducted a seperate calculation (not shown) that resulted in confirming this assumpton, however it is marginal.
+When conducting my analysis on Outcomes Based on Launch Date I looked at the two standout months of May and June.  Initially it appears that May is the most optimal time based
+on total successful projects but I went ahead and conducted a seperate calculation (not shown) that resulted in confirming this assumpton, however it is marginal.
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-In conducting my analysis it is evident that as the funding request increase the line of the chart also decreases.  It would may appear that success is also possible from 35,000 to 45,000, however the number of campaigns is signficantly less.  The chart itself was helpful but lacked the insight into the amount of projects which is why I also used the table to help provide more clarity.  
+In conducting my analysis it is evident that as the funding request increase the line of the chart also decreases.  It would may appear that success is also possible from
+35,000 to 45,000, however the number of campaigns is signficantly less.  The chart itself was helpful but lacked the insight into the amount of projects which is why I also
+used the table to help provide more clarity.  
 ![](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
